@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Facial Recognition.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Application.cpp
+C:\Users\LanceyFreypa\source\repos\FacialRecognition\Facial Recognition\Application.cpp(24,10): fatal  error C1083: Cannot open include file: 'opencv2/highgui/highgui.hpp': No such file or directory
