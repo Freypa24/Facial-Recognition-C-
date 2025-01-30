@@ -1,0 +1,4 @@
+C:\Users\LanceyFreypa\source\repos\Facial Recognition and GUI\Facial Recognition and GUI\x64\Debug\Facial Recognition and GUI.vcxproj.AssemblyReference.cache
+C:\Users\LanceyFreypa\source\repos\Facial Recognition and GUI\Facial Recognition and GUI\x64\Debug\Facial Recognition and GUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\LanceyFreypa\source\repos\Facial Recognition and GUI\Facial Recognition and GUI\x64\Debug\Facial_Recognition_and_GUI.MyForm.resources
+C:\Users\LanceyFreypa\source\repos\Facial Recognition and GUI\Facial Recognition and GUI\x64\Debug\Facial Recognition and GUI.vcxproj.GenerateResource.cache
